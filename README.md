@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on 🧠 **Wordpress Development**
 
-- 🌱 I’m currently learning :  **Data Structures And Algorithms** 🤔
+- 🌱 I’m currently learning :  **Data Structures && Algorithms** 🤔
 
 - 📫 Hit me On : **umair32khalid@gmail.com**
 
-- ⚡ Fun fact : **I don't drink Tea or Coffee** ☕️
+- ⚡ Fun fact : **I don't drink Tea || Coffee** ☕️
 
 
 
