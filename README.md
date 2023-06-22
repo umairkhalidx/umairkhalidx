@@ -1,15 +1,15 @@
 # Hi 👋, I'm Muhammad Umair Khalid
 
-#### A backend C++ Developer from Pakistan &nbsp; 🇵🇰  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=umairkhalidx&label=Profile%20views&color=0e75b6&style=flat" alt="umairkhalidx" />
+#### A Computer Scientist from Pakistan &nbsp; 🇵🇰  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=umairkhalidx&label=Profile%20views&color=0e75b6&style=flat" alt="umairkhalidx" />
 
 
 <img align="right" alt="coding" width=400px src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" >
 
 <h1></h1>
 
-- 🔭 I’m currently working on 🧠 **Wordpress Development**
+- 🔭 I’m currently working on 🧠 **Android App Development**
 
-- 🌱 I’m currently learning :  **Data Structures && Algorithms** 🤔
+- 🌱 I’m eager to learn :  **AI and Machine Learning** 🤔
 
 - 📫 Hit me On : **umair32khalid@gmail.com**
 
