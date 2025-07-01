@@ -45,9 +45,6 @@
 
 <h1></h1>
 
-## Snake.exe eating my Contributions
-![snake gif](https://github.com/umairkhalidx/umairkhalidx/blob/output/github-contribution-grid-snake.gif)
-
 <!--
 **umairkhalidx/umairkhalidx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
